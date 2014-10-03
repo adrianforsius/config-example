@@ -1,0 +1,13 @@
+id=www
+session.timeout=120
+session.server.0.host=127.0.0.1=test=12321= 
+session.server.0.port=1111
+session.server.0.id=session1
+session.server.1.host=127.0.0.1
+session.server.1.port=1111
+session.server.1.id=session2
+image.width=640
+image.height=480
+image.watermark.small=wsmall.png
+image.watermark.normal=wnormal.png
+asdasdads
